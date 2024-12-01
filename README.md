@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Welcome!
 
 I hold an **MEng degree in Electrical and Computer Engineering** from the **National Technical University of Athens (NTUA)**. I am currently a **Research Assistant** at **The Institute for the Wireless Internet of Things** at Northeastern University, working under the supervision of **Prof. Tommaso Melodia**. My research focuses on **Open RAN systems** and the experimental evaluation of **NextG RANs in O-RAN**, with an emphasis on **network management and optimization**.
 
