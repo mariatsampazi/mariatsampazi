@@ -2,9 +2,7 @@
 
 I hold an MEng degree in Electrical and Computer Engineering from the **National Technical University of Athens (NTUA)**.  
 I am presently a **Research Assistant** at **The Institute for the Wireless Internet of Things**, Northeastern University,  
-under the supervision of **Prof. Tommaso Melodia**.
-
-I am currently working on **Open RAN systems** and the experimental evaluation of **NextG RANs in O-RAN**.  
+under the supervision of **Prof. Tommaso Melodia**. I am currently working on **Open RAN systems** and the experimental evaluation of **NextG RANs in O-RAN**.  
 My focus is steered on **AI for & on the RAN**, and **network management/optimization**.
 
 🌐 **Explore My Work:**  
