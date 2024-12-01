@@ -2,7 +2,33 @@
 
 # Welcome to My GitHub Profile!
 
-Visit my GitHub Pages site: [https://mariatsampazi.github.io](https://mariatsampazi.github.io)
+I hold an MEng degree in Electrical and Computer Engineering from the **National Technical University of Athens (NTUA)**.  
+I am presently a **Research Assistant** at **The Institute for the Wireless Internet of Things**, Northeastern University,  
+under the supervision of **Prof. Tommaso Melodia**.
+
+I am currently working on **Open RAN systems** and the experimental evaluation of **NextG RANs in O-RAN**.  
+My focus is steered on **AI for & on the RAN**, and **network management/optimization**.
+
+🌐 **Explore My Work:**  
+- **Personal Website:** [https://mariatsampazi.github.io](https://mariatsampazi.github.io)  
+- **Lab Website:** [WiNES Lab](https://ece.northeastern.edu/wineslab/Maria.php)  
+
+---
+
+📫 **Connect With Me:**  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-tsampazi-9858bb122)
+- [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=PeHgVWsAAAAJ&hl=en)
+- [![ArXiv](https://img.shields.io/badge/arXiv-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/search/cs?searchtype=author&query=Tsampazi,+M)  
+
+---
+
+💻 **About Me:**  
+- Exploring AI applications for **Open RAN optimization**.  
+- Investigating experimental evaluations of **NextG RANs**.  
+- Conducting real-world tests and research on **network management and optimization**.  
+
+Feel free to explore my repositories or visit my pages for more insights into my projects and research!
+
 
 <!--
 **mariatsampazi/mariatsampazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
