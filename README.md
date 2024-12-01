@@ -11,23 +11,17 @@ My focus is steered on **AI for & on the RAN**, and **network management/optimiz
 
 🌐 **Explore My Work:**  
 - **Personal Website:** [https://mariatsampazi.github.io](https://mariatsampazi.github.io)  
-- **Lab Website:** [WiNES Lab](https://ece.northeastern.edu/wineslab/Maria.php)  
-
----
-
-📫 **Connect With Me:**  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-tsampazi-9858bb122)
+- **Lab Website:** [WiNES Lab](https://ece.northeastern.edu/wineslab/Maria.php)
 - [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=PeHgVWsAAAAJ&hl=en)
 - [![ArXiv](https://img.shields.io/badge/arXiv-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/search/cs?searchtype=author&query=Tsampazi,+M)  
 
 ---
 
-💻 **About Me:**  
-- Exploring AI applications for **Open RAN optimization**.  
-- Investigating experimental evaluations of **NextG RANs**.  
-- Conducting real-world tests and research on **network management and optimization**.  
+📫 **Connect With Me:**  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-tsampazi-9858bb122)
 
-Feel free to explore my repositories or visit my pages for more insights into my projects and research!
+
+
 
 
 <!--
