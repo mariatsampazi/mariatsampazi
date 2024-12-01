@@ -12,10 +12,7 @@ My focus is steered on **AI for & on the RAN**, and **network management/optimiz
 - [![ArXiv](https://img.shields.io/badge/arXiv-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/search/cs?searchtype=author&query=Tsampazi,+M)
 - [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0007-4030-6281)  
 
----
 
-📫 **Connect With Me:**  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-tsampazi-9858bb122)
 
 
 
