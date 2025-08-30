@@ -1,6 +1,6 @@
 # Introduction
 
-I hold an **MEng degree in Electrical and Computer Engineering** from the National Technical University of Athens (NTUA). I am currently a PhD Candidate & Research Assistant at **The Institute for the Wireless Internet of Things** at Northeastern University, working under the supervision of Prof. Tommaso Melodia. My research focuses on Open RAN systems and the experimental evaluation of NextG RANs in O-RAN, with an emphasis on **network management and optimization**. I was previously an intern with the **NOKIA** Standards Group, based in the Greater Chicago Area.
+I hold an **MEng degree in Electrical and Computer Engineering** from the National Technical University of Athens (NTUA). I am currently a PhD Candidate & Research Assistant at The Institute for the Wireless Internet of Things at Northeastern University, working under the supervision of Prof. Tommaso Melodia. My research focuses on Open RAN systems and the experimental evaluation of NextG RANs in O-RAN, with an emphasis on **network management and optimization**. I was previously an intern with the **NOKIA** Standards Group, based in the **Greater Chicago Area**.
 
 **Explore My Work:**  
 - [**Personal Website**](https://mariatsampazi.github.io)  
